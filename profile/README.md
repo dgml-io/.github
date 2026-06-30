@@ -26,7 +26,7 @@ A third fundamental property is **document order with graph semantics**. Most gr
 | Repo | Purpose |
 |------|---------|
 | [dgml-io/dgml-spec](https://github.com/dgml-io/dgml-spec) | Format specification — the community hub |
-| [dgml-io/dgml-spec/samples](https://github.com/dgml-io/dgml-spec/tree/main/samples) | Examples of DGML |
+| [dgml-io/dgml-spec/samples](https://github.com/dgml-io/dgml-spec/tree/main/samples) | Samples of DGML files |
 | [dgml-io/dgml](https://github.com/dgml-io/dgml) | Python reference implementation |
 | [dgml-io/dgml.io](https://github.com/dgml-io/dgml.io) | Website source |
 
