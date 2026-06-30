@@ -40,6 +40,3 @@ There are two ways to participate — and organizations that do have real influe
 - **Shape the spec** — open an issue or discussion in [dgml-io/dgml-spec](https://github.com/dgml-io/dgml-spec) to propose a change, challenge a design decision, or bring a use case the founding organizations haven't encountered.
 - **Build the implementation** — contribute to [dgml-io/dgml](https://github.com/dgml-io/dgml), the Python reference implementation. Use it, break it, improve it. The implementations that emerge from real use cases are what harden a standard.
 
-- 📄 [Read the spec](https://github.com/dgml-io/dgml-spec/blob/main/spec.md)
-- 💬 [Start a discussion](https://github.com/dgml-io/dgml-spec/discussions)
-- 🌐 [dgml.io](https://dgml.io)
