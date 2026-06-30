@@ -36,8 +36,10 @@ A third fundamental property is **document order with graph semantics**. Most gr
 
 DGML is an open initiative founded by [Docugami](https://www.docugami.com) and [Inveniam](https://www.inveniam.io), **Apache 2.0 licensed**. The specification is live. The community is forming. A formal steering committee will be established to guide the evolution of the format, with representation from contributors and adopters.
 
-There are two ways to participate — and organizations that do have real influence over what DGML becomes:
+There are two ways to participate:
 
 - **Shape the spec** — open an issue or discussion in [dgml-io/dgml-spec](https://github.com/dgml-io/dgml-spec) to propose a change, challenge a design decision, or bring a use case the founding organizations haven't encountered.
 - **Build the implementation** — contribute to [dgml-io/dgml](https://github.com/dgml-io/dgml), the Python reference implementation. Use it, break it, improve it. The implementations that emerge from real use cases are what harden a standard.
+
+Organizations that participate now have real influence over what DGML becomes.
 
