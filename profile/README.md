@@ -23,6 +23,22 @@ The fourth is **attestation**: **Proof of Origin at the data-element level**. Ev
 
 ---
 
+## DGML Compass
+
+2.5× the traceable reasoning of markdown at half the tokens. And Compass picks
+models that create DGML up to 30× cheaper than the best-scoring.
+
+| | Result |
+|---|---|
+| **2.5× traceable reasoning** | Figures the model reasons from that point to one exact place in the document: 82–85% with DGML against 16–33% with markdown. |
+| **½ the tokens** | What the model used to answer the same questions: 6.6–7.0M tokens with DGML against 11–14M with markdown. |
+| **Up to 30× cheaper to create DGML** | Model Compass finds the optimal models that turn your documents into DGML: 93.4 F1 at $0.045 per document, against 94.3 F1 at $1.33. |
+
+Both benchmarks use public documents only and are published in full, so you can
+rescore or re-run them yourself. See [www.dgml.io/compass.html](https://www.dgml.io/compass.html).
+
+---
+
 ## Repositories
 
 | Repo | Purpose |
@@ -30,6 +46,7 @@ The fourth is **attestation**: **Proof of Origin at the data-element level**. Ev
 | [dgml-io/dgml-spec](https://github.com/dgml-io/dgml-spec) | Format specification — the community hub |
 | [dgml-io/dgml-spec/samples](https://github.com/dgml-io/dgml-spec/tree/main/samples) | Samples of DGML files |
 | [dgml-io/dgml](https://github.com/dgml-io/dgml) | Python reference implementation |
+| [dgml-io/dgml-compass](https://github.com/dgml-io/dgml-compass) | Benchmarks: DGML vs markdown, and Model Compass |
 | [dgml-io/dgml.io](https://github.com/dgml-io/dgml.io) | Website source |
 
 ---
