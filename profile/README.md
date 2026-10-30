@@ -46,7 +46,7 @@ rescore or re-run them yourself. See [www.dgml.io/compass.html](https://www.dgml
 | [dgml-io/dgml-spec](https://github.com/dgml-io/dgml-spec) | Format specification — the community hub |
 | [dgml-io/dgml-spec/samples](https://github.com/dgml-io/dgml-spec/tree/main/samples) | Samples of DGML files |
 | [dgml-io/dgml](https://github.com/dgml-io/dgml) | Python reference implementation |
-| [dgml-io/dgml-compass](https://github.com/dgml-io/dgml-compass) | Open benchmarks: DGML vs markdown, and Model Compass: picking your pipeline |
+| [dgml-io/dgml-compass](https://github.com/dgml-io/dgml-compass) | Open benchmarks: DGML vs markdown, and Model Compass: picking the models for your pipeline |
 | [dgml-io/dgml.io](https://github.com/dgml-io/dgml.io) | Website source |
 
 ---
